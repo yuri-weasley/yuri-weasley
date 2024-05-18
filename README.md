@@ -1,7 +1,7 @@
 # Hi there! 👋
-## Eu sou o Yuri
+## I'm Yuri
 
-- 🚁 Mecânico de Aeronaves da [Força Aérea Brasileira](https://www.fab.mil.br/index.php) 
-- 🎓 Estudante de Ciência da Computação na [UNESA](https://estacio.br/)
-- 🖥 Curioso pelo mundo da TI desde 2009
-- 🔭 Atualmente estudando mais a fundo o Front-end (HTML5, CSS3, JavaScript e PHP)
+- 🚁 [Brazilian Air Force](https://www.fab.mil.br/index.php) aircraft mechanich
+- 🎓 Computer Science studant at [UNESA](https://estacio.br/)
+- 🖥 Curious about the world of IT since 2009
+- 🔭 Currently studying the Front-end in more depth (HTML5, CSS3, JavaScript and PHP)
