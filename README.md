@@ -1,5 +1,5 @@
-### Hi there 👋
-## Eu sou o Yuri!
+# Hi there! 👋
+## Eu sou o Yuri
 
 - 🚁 Mecânico de Aeronaves da [Força Aérea Brasileira](https://www.fab.mil.br/index.php) 
 - 🎓 Estudante de Ciência da Computação na [UNESA](https://estacio.br/)
