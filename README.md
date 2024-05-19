@@ -1,8 +1,8 @@
 # Hi there! 👋
 ## I'm Yuri
 
-- 🚁 [Brazilian Air Force](https://www.fab.mil.br/index.php) aircraft mechanich
-- 🎓 Computer Science student at [UNESA](https://estacio.br/)
+- 🚁 aircraft mechanich [@fab_oficial](https://www.fab.mil.br/index.php)
+- 🎓 Computer Science student at [@unesa_brasil](https://estacio.br/)
 - 🖥 Curious about the world of IT since 2009
 - 🔭 Currently studying the Front-end in more depth (HTML5, CSS3, JavaScript and PHP)
   
