@@ -7,3 +7,5 @@
 - 🔭 Currently studying the Front-end in more depth (HTML5, CSS3, JavaScript and PHP)
   
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-weasley&layout=compact&theme=yeblue)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuri-weasley&show_icons=true)
