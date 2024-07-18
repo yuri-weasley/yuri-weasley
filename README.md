@@ -8,4 +8,4 @@
   
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-weasley&layout=compact&theme=yeblue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-weasley&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-weasley&langs_count=8)
