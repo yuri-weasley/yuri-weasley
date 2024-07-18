@@ -6,4 +6,4 @@
 - 🖥 Curious about the world of IT since 2009
 - 🔭 Currently studying the Front-end in more depth (HTML5, CSS3, JavaScript and PHP)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-weasley&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-weasley&theme=dark&show_itens=true&langs_count=8)
