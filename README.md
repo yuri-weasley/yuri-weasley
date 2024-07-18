@@ -8,4 +8,4 @@
   
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-weasley&layout=compact&theme=yeblue)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuri-weasley&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-weasley&hide_progress=true)
