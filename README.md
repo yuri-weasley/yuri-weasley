@@ -1,4 +1,6 @@
 # Hi there! 👋
+<a href="https://www.linkedin.com/in/weslley-yuri-570a0a308/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
 ## I'm Yuri
 
 - 🚁 aircraft mechanich @[fab_oficial](https://www.fab.mil.br/index.php)
@@ -7,6 +9,8 @@
 - 🔭 Currently studying the Front-end in more depth (HTML5, CSS3, JavaScript and PHP)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-weasley&theme=transparent&show_itens=true&langs_count=8)
+
+### Languages and Tools
 
 <div align="left" justify-content="space-around">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
