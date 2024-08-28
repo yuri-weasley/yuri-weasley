@@ -20,5 +20,5 @@
     <img width="12" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" height="30" alt="typescript logo"  />
     <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original-wordmark.svg" height="30" alt="vscode logo"  />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" height="30" alt="vscode logo"  />
 </div>
