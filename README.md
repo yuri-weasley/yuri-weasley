@@ -8,8 +8,6 @@
 - 🖥 Curious about the world of IT since 2009
 - 🔭 Currently studying HTML, CSS, Java, JavaScript, it's libraries and frameworks
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-weasley&theme=transparent&show_itens=true&langs_count=8)
-
 ### Languages and Tools
 
 <div align="left" justify-content="space-around">
@@ -26,3 +24,5 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-weasley&theme=transparent&show_itens=true&langs_count=8)
