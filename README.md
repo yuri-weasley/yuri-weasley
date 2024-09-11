@@ -16,6 +16,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" height="30" alt="git logo"  />
     <img width="12" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="30" alt="github logo"  />
+    <img width="12" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" alt="html5 logo"/>
     <img width="12"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
