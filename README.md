@@ -21,6 +21,8 @@
     <img width="12"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" alt="Html5 logo"/>
     <img width="12"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="30" alt="Java logo"/>
+    <img width="12"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30" alt="JavaScript logo"/>
     <img width="12"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" height="30" alt="TypeScript logo"/>
