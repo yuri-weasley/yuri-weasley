@@ -6,7 +6,7 @@
 - 🚁 aircraft mechanich @[fab_oficial](https://www.fab.mil.br/index.php)
 - 🎓 Computer Science student @[unesa_brasil](https://estacio.br/)
 - 🖥 Curious about the world of IT since 2009
-- 🔭 Currently studying HTML, CSS, Java, JavaScript, it's libraries and frameworks
+- 🔭 Currently studying JavaScript, it's libraries and frameworks
 
 ### Languages and Tools
 
