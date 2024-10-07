@@ -4,7 +4,7 @@
 ## I'm Yuri
 
 - 🚁 aircraft mechanich @[fab_oficial](https://www.fab.mil.br/index.php)
-- 🎓 Computer Science student @[unesa_brasil](https://estacio.br/)
+- 🎓 Computer Science student @[estacio_brasil](https://estacio.br/)
 - 🖥 Curious about the world of IT since 2009
 - 🔭 Currently studying JavaScript, it's libraries and frameworks
 
