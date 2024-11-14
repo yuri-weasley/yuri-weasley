@@ -17,6 +17,10 @@
     <img width="12"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="30" alt="Github logo"/>
     <img width="12"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" height="30" alt="Intellij logo"/>
+    <img width="12"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="30" alt="NodeJs logo"/>
+    <img width="12"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode logo"/>
     <img width="12"/>
 </div>
