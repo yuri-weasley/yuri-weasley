@@ -13,19 +13,9 @@
 <div align="left" justify-content="space-around">
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap logo">
     <img width ="12"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" alt="Css3 logo"/>
-    <img width="12"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" height="30" alt="Git logo"/>
     <img width="12"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="30" alt="Github logo"/>
-    <img width="12"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" alt="Html5 logo"/>
-    <img width="12"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="30" alt="Java logo"/>
-    <img width="12"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30" alt="JavaScript logo"/>
-    <img width="12"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" height="30" alt="TypeScript logo"/>
     <img width="12"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode logo"/>
     <img width="12"/>
