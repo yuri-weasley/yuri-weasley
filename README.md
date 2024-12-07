@@ -1,12 +1,12 @@
 # Hi there! 👋
 <a href="https://www.linkedin.com/in/weslley-yuri-570a0a308/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-## I'm Yuri
+## Eu sou o Yuri
 
-- 🚁 aircraft mechanich @[fab_oficial](https://www.fab.mil.br/index.php)
-- 🎓 Computer Science student @[estacio_brasil](https://estacio.br/)
-- 🖥 Curious about the world of IT since 2009
-- 🔭 Currently studying JavaScript, it's libraries and frameworks
+- 🚁 Mecânico de aeronaves @[fab_oficial](https://www.fab.mil.br/index.php)
+- 🎓 Estudante de Ciência da Computação @[estacio_brasil](https://estacio.br/)
+- 🖥 Curioso pelo mundo da TI desde 2009
+- 🔭 Atualmente, estudando JavaScript, suas bibliotecas e frameworks
 
 ### Languages and Tools
 
