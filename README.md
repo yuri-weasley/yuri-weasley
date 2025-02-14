@@ -1,7 +1,7 @@
 # Hi there! 👋
 <a href="https://www.linkedin.com/in/weslley-yuri-570a0a308/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-## Eu sou o Yuri
+## I'm Yuri
 
 - 🚁 Mecânico de aeronaves @[fab_oficial](https://www.fab.mil.br/index.php)
 - 🎓 Estudante de Ciência da Computação @[estacio_brasil](https://estacio.br/)
