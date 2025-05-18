@@ -11,6 +11,8 @@
 ### Languages and Tools
 
 <div align="left" justify-content="space-around">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" height="30" alt="Angular logo">
+    <img width ="12"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap logo">
     <img width ="12"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" height="30" alt="Git logo"/>
