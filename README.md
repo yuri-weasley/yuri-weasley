@@ -27,4 +27,8 @@
     <img width="12"/>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuri-weasley&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="left">
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-weasley&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
+  
+ </div>
