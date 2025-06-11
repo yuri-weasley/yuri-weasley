@@ -32,9 +32,6 @@
 
 <div align="left">
 
-  <img width="370px" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-weasley&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=14" />
-
-  
-  <img width="370px" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-weasley&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
+  <img width="370px" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-weasley&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=14" />
   
  </div>
