@@ -32,6 +32,6 @@
 
 <div align="left">
 
-  <img width="390px" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-weasley&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=14" />
+  <img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-weasley&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=14" />
   
  </div>
