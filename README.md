@@ -38,13 +38,15 @@
 </div>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-weasley&theme=transparent&layout=compact"/>
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-weasley&theme=transparent&layout=compact&hide_border=true"/>
 </p>
 
  <p align="center">
  <!--[Anurag's GitHub stats]-->
-  <img src="https://github-readme-stats.vercel.app/api?username=yuri-weasley&theme=transparent&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yuri-weasley&theme=transparent&show_icons=true&hide_border=true"/>
 </p>
+
+---
 
 <p align="center">
   <em>"It's better to try something, see it not work, and learn from it, than to do nothing."</em>
