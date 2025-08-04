@@ -35,3 +35,10 @@
   <img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-weasley&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=14" />
   
  </div>
+
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yuri-weasley&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
+</p>
+
+ [![](https://visitcount.itsvg.in/api?id=yuri-weasley16&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=yuri-weasley&repo=yuri-weasley&countColorcountColor)]()
