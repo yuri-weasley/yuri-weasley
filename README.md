@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/weslley-yuri-570a0a308/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
   <a href="https://www.instagram.com/yuri_weasley/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
 
@@ -38,8 +39,7 @@
 </div>
 
 <p align="center">
-<!--[Anurag's GitHub stats]-->
-  <img width="45%" src="(https://github-readme-stats.vercel.app/api?username=yuri-weasley&theme=dark&show_icons=true)" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-weasley&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
 </p>
 
  <p align="center">
