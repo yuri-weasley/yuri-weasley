@@ -41,6 +41,8 @@
   <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-weasley&theme=transparent&layout=compact&hide_border=true"/>
 </p>
 
+---
+
  <p align="center">
  <!--[Anurag's GitHub stats]-->
   <img src="https://github-readme-stats.vercel.app/api?username=yuri-weasley&theme=transparent&show_icons=true&hide_border=true"/>
