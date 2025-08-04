@@ -39,11 +39,13 @@
 
 <p align="center">
   <img width="45%" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-weasley&theme=transparent&layout=compact)/>
+
 </p>
 
  <p align="center">
  <!--[Anurag's GitHub stats]-->
   <img src="(https://github-readme-stats.vercel.app/api?username=yuri-weasley&theme=transparent&show_icons=true)/>
+  
 </p>
 
 <p align="center">
