@@ -46,6 +46,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yuri-weasley&theme=transparent&show_icons=true&hide_border=true"/>
 </p>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuri-weasley&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" />
+</a>
+
 ---
 
 <p align="center">
