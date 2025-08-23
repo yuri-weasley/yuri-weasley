@@ -49,5 +49,5 @@
 ---
 
 <p align="center">
-  <em>"It's better to try something, see it not work, and learn from it, than to do nothing."</em>
+  <em>"And let us not grow weary while doing good, for in due season we shall reap if we do not lose heart." - Galatians 6:9</em>
 </p>
