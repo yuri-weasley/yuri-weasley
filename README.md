@@ -25,11 +25,11 @@
     <img width ="12"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" height="30" alt="Git logo"/>
     <img width="12"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="30" alt="Github logo"/>
-    <img width="12"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" height="30" alt="Intellij logo"/>
     <img width="12"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="30" alt="NodeJs logo"/>
+    <img width="12"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="30" alt="React logo"/>
     <img width="12"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="30" alt="VSCode logo"/>
     <img width="12"/>
