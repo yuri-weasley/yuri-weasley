@@ -9,8 +9,8 @@
 
 ### 🧠 About Me
 
-- 🚁 Mecânico de aeronaves @[fab_oficial](https://www.fab.mil.br/index.php)
-- 🎓 Estudante de Ciência da Computação @[estacio_brasil](https://estacio.br/)
+- 🚁 Mecânico de aeronaves [@fab_oficial](https://www.fab.mil.br/index.php)
+- 🎓 Estudante de Ciência da Computação [@estacio_brasil](https://estacio.br/)
 - 🖥 Curioso pelo mundo da TI desde 2009
 - 🔭 Atualmente, estudando JavaScript, suas bibliotecas e frameworks
 
